@@ -1,0 +1,15 @@
+# Ref: https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+blank_issues_enabled: true
+contact_links:
+- name: 🙋  Usage Questions
+  url: https://github.com/osl-python-package/osl-python-package/discussions
+  about: |
+    Use OSL Python package's GitHub Discussions to ask "How do I do X with OSL Python package?".
+- name: 📖  Tutorial
+  url: https://github.com/osl-python-package/osl-python-package
+  about: |
+    The OSL Python package tutorial is continually updated and provides an in depth walkthrough
+    of how to use the latest release of OSL Python package.
+- name: 📝  OSL Python package Code of Conduct
+  url: https://github.com/osl-python-package/osl-python-package/coc/CODE_OF_CONDUCT.md
+  about: Expectations for how people will interact with each other on OSL Python package's GitHub.
